@@ -3,7 +3,7 @@
 // Hier vind je voorbeeld html voor de head-sectie
 
 ?><!DOCTYPE html>
-
+<html>
 <head>
 	<meta charset="utf-8">
 	<title><?php echo $title;?></title>
